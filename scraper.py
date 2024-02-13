@@ -79,7 +79,8 @@ def main()->None:
     down_load_directory = "/home/notorious/Documents/VirtuosoResearch/generating-novel-contents/data"
     get_data(down_load_directory)
     # set delete_zip_files to False if you want to keep the zip files
-    # unzip(down_load_directory, delete_zip_files=True)
+    unzip(down_load_directory, delete_zip_files=True)
 
+if __name__ == '__main__':
     main()
 
