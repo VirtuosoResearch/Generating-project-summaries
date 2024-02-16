@@ -1,3 +1,7 @@
+"""
+Run this file to compare previous version of getDF function used to convert XML file to Pandas Dataframe with getDFOptimized function which is significantly faster
+"""
+
 import xmltodict
 import json
 import pandas as pd
