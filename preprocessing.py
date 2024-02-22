@@ -87,7 +87,6 @@ def main() -> None:
     print("################ preprocessing done ##############################")
     df.to_csv('data.csv')
     print("################ CSV File Saved ##############################")
-    df = pd.read_csv('data.csv')
    
 
 
