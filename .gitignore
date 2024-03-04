@@ -1,0 +1,4 @@
+data/
+Test/
+utils/__pychache__/
+*.csv
