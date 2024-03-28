@@ -2,3 +2,5 @@ data/
 Test/
 utils/__pychache__/
 *.csv
+LoRA.ipynb
+QLoRA.ipynb
